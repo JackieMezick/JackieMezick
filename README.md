@@ -7,33 +7,11 @@ I am a highly effective Database Manager looking to expand into a Cybersecurity 
 
 My time at Midland Code Academy unexpectedly sparked a deep interest in cybersecurity. While I originally signed up to enhance my coding skills, I quickly found myself captivated by the challenges and complexities of protecting data and systems. It’s amazing how this experience opened my eyes to a whole new world within tech—one where problem-solving and constant learning are key. Now, cybersecurity has become a passion of mine, and I’m excited to explore where it can take me.
 
-## Skills
+## Learning Path
 
-| Skill                                         | Associated Project         |
+| Course                                        | Repository         |
 |-----------------------------------------------|----------------------------|
-| Capturing Traffic with ARP Spoofing           | Coming Soon|
-| Analyzing Captured Traffic                    | Coming Soon|
-| Crafting TCP Shells and Botnets               | Coming Soon|
-| Building Trojans                              | Coming Soon|
-| Building and Installing Linux Rootkits        | Coming Soon|
-| Stealing and Cracking Passwords               | Coming Soon|
-
-## Tools
-
-### Network
-<div>
-    -Coming Soon
-</div>
-
-### Endpoint
-<div>
-   -Coming Soon
-</div>
-
-### SIEM
-<div>
-  -Coming Soon
-</div>
+| DevOps Beginners to Advanced with Projects    | [Relections & Projects](https://github.com/JackieMezick/DevOps-Beginners-to-Advanced-with-Projects)|
 
 ## Certifications
 
@@ -41,7 +19,4 @@ My time at Midland Code Academy unexpectedly sparked a deep interest in cybersec
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
-## Projects
-<div>
- -Coming Soon
-</div>
+
